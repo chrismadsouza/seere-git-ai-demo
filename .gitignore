@@ -1,0 +1,22 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Stata
+*.stswp
+*.log
+
+# Output (generated files)
+# output/figures/*
+# output/tables/*
+!output/figures/.gitkeep
+!output/tables/.gitkeep
+
+# OS
+.DS_Store
